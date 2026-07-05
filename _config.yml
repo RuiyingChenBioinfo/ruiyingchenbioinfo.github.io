@@ -10,7 +10,6 @@
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title: "Ruiying Chen"
-name: &name "Ruiying Chen"
 description: &description "Academic profile of Ruiying Chen"
 url: "https://ruiyingchenbioinfo.github.io"
 baseurl: ""
