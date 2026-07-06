@@ -15,5 +15,5 @@ My WeChat Official Account
 ------
 I share Chinese-language notes and practical tips on single-cell bioinformatics and computational analysis through my WeChat Official Account, BioinfoWitch 灯灯.
 <div align="center">
-    <img src="./images/WechatAccount.jpg" width="200">
+    <img src="./images/WechatAccount.jpg" width="100">
 </div>
