@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Final year PhD student open to postdoc / RA opportunities"
+  bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "BGI Research Beijing & UCAS"
   uri              : # URL
@@ -32,6 +32,7 @@ author:
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=vaDUMpsAAAAJ&hl=zh-CN&oi=ao"
+  orcid            : "https://orcid.org/yourorcidurl"
 
 
   # Repositories and software development
