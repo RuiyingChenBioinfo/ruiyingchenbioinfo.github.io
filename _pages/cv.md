@@ -19,7 +19,7 @@ Skills
 * single-cell and spatial multi-omics analysis using published methods
   * Trajectory analysis
   * Gene regulatory network analysis
-  * Spatial cell-cell communication analysis
+  * Cell-cell communication analysis
 * Analytical tool development
   * SNV-based cell lineage inference
   * Transcript-level co-expression analysis
