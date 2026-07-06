@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Welcome!"
 author_profile: true
 redirect_from:
   - /about/
@@ -9,11 +9,12 @@ redirect_from:
 
 Welcome to my academic profile.
 
-My research interest lies in applying spatial transcriptomics data to understand **gene expression patterns** within the context of cell development. I also use and develop computational tools to analyze **gene regulations**.
+My research focuses on **single-cell/spatial transcriptomics** and **computational biology**, with an emphasis on understanding gene expression programs and regulatory mechanisms during cell development.
+
 
 My WeChat Official Account
 ------
 I share Chinese-language notes and practical tips on single-cell bioinformatics and computational analysis through my WeChat Official Account, BioinfoWitch 灯灯.
-<div align="center">
-    <img src="./images/WechatAccount.jpg" width="100">
+<div align="left">
+    <img src="./images/WechatAccount.jpg" width="150">
 </div>
