@@ -11,36 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Genomics, University of Chinese Academy of Sciences (Beijing, China), 2021-now
-* B.S. in Bioinformatics, Huazhong Agricultural University (Wuhan, China), 2017-2021
+* Ph.D in Genomics, University of Chinese Academy of Sciences (Beijing, China), *2021.09 - present*
+* B.S. in Bioinformatics, Huazhong Agricultural University (Wuhan, China), *2017.09 - 2021.06*
 
 Skills
 ======
-* single-cell and spatial multi-omics analysis
-  * Gene expression gradient analysis
+* single-cell and spatial multi-omics analysis using published methods
   * Trajectory analysis
   * Gene regulatory network analysis
-  * Co-expression analysis
   * Spatial cell-cell communication analysis
-
+* Analytical tool development
+  * SNV-based cell lineage inference
+  * Transcript-level co-expression analysis
+    
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+International conference volunteering
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* The 2nd International Plant STOC Research Symposium (Beijing, China), *2025.11*
+* The Plant and Animal Genome Conference (Shenzhen, China), *2024.06*
+* The 1st International Plant STOC Research Symposium (Shenzhen, China), *2024.06*
+
