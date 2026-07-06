@@ -22,9 +22,9 @@ title_separator          : "-"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ruiying Chen (陈睿颖)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD candidate applying for postdoc/RA"
   location         : "Earth"
   employer         : "BGI Research Beijing & UCAS"
   uri              : # URL
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=vaDUMpsAAAAJ&hl=zh-CN&oi=ao"
-  orcid            : "https://orcid.org/yourorcidurl"
+#  orcid            : "https://orcid.org/yourorcidurl"
 
 
   # Repositories and software development
