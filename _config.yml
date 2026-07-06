@@ -24,15 +24,14 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Final year PhD student open to postdoc / RA opportunities"
   location         : "Earth"
-  employer         : "BGI Research Beijing & University of Chinese Academy of Sciences"
+  employer         : "BGI Research Beijing & UCAS"
   uri              : # URL
   email            : "chenruiying@genomics.cn" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=vaDUMpsAAAAJ&hl=zh-CN&oi=ao"
-  orcid            : "https://orcid.org/yourorcidurl"
 
 
   # Repositories and software development
