@@ -9,7 +9,7 @@ author_profile: true
 
 GEI-NJ is a gene-expression-informed neighbor-joining framework for constructing SNV-informed relationship trees from single-cell and spatial transcriptomic sequencing profiles.
 <div align="left">
-    <img src="/images/Schematic_of_GEI-NJ.png" width="600">
+    <img src="/images/Schematic_of_GEI-NJ.png" width="800">
 </div>
 - **Role:** Developer and first author
 - **Repository:** [GEI-NJ](https://github.com/RuiyingChenBioinfo/GEI-NJ)
