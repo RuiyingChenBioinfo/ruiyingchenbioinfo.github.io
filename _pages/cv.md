@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Genomics, University of Chinese Academy of Sciences (Beijing, China), *2021.09 - present*
-* B.S. in Bioinformatics, Huazhong Agricultural University (Wuhan, China), *2017.09 - 2021.06*
+* 2021.09 - present  Ph.D in Genomics, University of Chinese Academy of Sciences (Beijing, China)
+* 2017.09 - 2021.06  B.S. in Bioinformatics, Huazhong Agricultural University (Wuhan, China)
 
 Skills
 ======
-* single-cell and spatial multi-omics analysis using published methods
+* Single-cell and spatial multi-omics analysis using published methods
   * Trajectory analysis
   * Gene regulatory network analysis
   * Cell-cell communication analysis
@@ -32,7 +32,7 @@ Publications
   
 International conference volunteering
 ======
-* The 2nd International Plant STOC Research Symposium (Beijing, China), *2025.11*
-* The Plant and Animal Genome Conference (Shenzhen, China), *2024.06*
-* The 1st International Plant STOC Research Symposium (Shenzhen, China), *2024.06*
+* 2025.11  The 2nd International Plant STOC Research Symposium (Beijing, China)
+* 2024.06  The 31st Plant and Animal Genome Conference (Shenzhen, China)
+* 2024.06  The 1st International Plant STOC Research Symposium (Shenzhen, China)
 
