@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Ruiying Chen (陈睿颖)"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"
   bio              : "PhD candidate applying for postdoc/RA"
   location         : "Earth"
   employer         : "BGI Research Beijing & UCAS"
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=vaDUMpsAAAAJ&hl=zh-CN&oi=ao"
-#  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # "https://orcid.org/yourorcidurl"
 
 
   # Repositories and software development
