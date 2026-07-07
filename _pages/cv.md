@@ -9,13 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-------
+## Education
+---
+
 * **2021.09 - present** · Ph.D in Genomics, University of Chinese Academy of Sciences (Beijing, China)
 * **2017.09 - 2021.06** · B.S. in Bioinformatics, Huazhong Agricultural University (Wuhan, China)
 
-Skills
-------
+## Skills
+---
+
 * Single-cell and spatial multi-omics analysis using published methods
   * Trajectory analysis
   * Gene regulatory network analysis
@@ -24,13 +26,14 @@ Skills
   * SNV-based cell lineage inference
   * Transcript-level co-expression analysis
     
-Publications
-------
+## Publications
+---
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Representative Awards
+## Representative Awards
 ------
 
 * **2026.05** · Top 10% Most-Viewed Article of 2024 in *Advanced Science*
@@ -38,8 +41,8 @@ Representative Awards
 * **2024.12** · National Scholarship for Doctoral Students in China
 * **2023.07** · Best Poster Presentation at the 18th International Conference on Genomics Youth Symposium
 
-Conference Service
-------
+## Conference Service
+---
 
 * **2025.11** · The 2nd International Plant STOC Research Symposium (Beijing, China)
 * **2024.06** · The 31st Plant and Animal Genome Conference Asia (Shenzhen, China)
