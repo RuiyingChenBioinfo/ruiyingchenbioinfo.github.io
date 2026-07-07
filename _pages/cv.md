@@ -30,6 +30,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Representative Awards
+======
+
+* **2025.11** · Best Poster Presentation at the 2nd International Plant STOC Research Symposium
+* **2024.12** · National Scholarship for Doctoral Students in China
+* **2023.07** · Best Poster Presentation at the 18th International Conference on Genomics Youth Symposium
+
 International conference volunteering
 ======
 
