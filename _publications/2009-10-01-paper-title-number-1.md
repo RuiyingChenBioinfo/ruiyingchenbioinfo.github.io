@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Multiome in the Same Cell Reveals the Impact of Osmotic Stress on *Arabidopsis* Root Tip Development at Single-Cell Level"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: journal-articles
+paperurl: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202308384"
+date: 2024-04-18
+venue: 'Advanced Science'
+citation: 'Liu Q#, Ma W#, <u><strong>Chen R#</strong></u>, et al. Multiome in the Same Cell Reveals the Impact of Osmotic Stress on <i>Arabidopsis</i> Root Tip Development at Single-Cell Level[J]. Advanced Science, 2024, 11(24): 2308384.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+Cell-specific transcriptional regulatory networks (TRNs) play vital roles in plant development and response to environmental stresses. However, traditional single-cell mono-omics techniques are unable to directly capture the relationships and dynamics between different layers of molecular information within the same cells. While advanced algorithm facilitates merging scRNA-seq and scATAC-seq datasets, accurate data integration remains a challenge, particularly when investigating cell-type-specific TRNs. By examining gene expression and chromatin accessibility simultaneously in 16,670 *Arabidopsis* root tip nuclei, the TRNs are reconstructed that govern root tip development under osmotic stress. In contrast to commonly used computational integration at cell-type level, 12,968 peak-to-gene linkage is captured at the bona fide single-cell level and construct TRNs at an unprecedented resolution. Furthermore, the unprecedented datasets allow to more accurately reconstruct the coordinated changes of gene expression and chromatin states during cellular state transition. During root tip development, chromatin accessibility of initial cells precedes gene expression, suggesting that changes in chromatin accessibility may prime cells for subsequent differentiation steps. Pseudo-time trajectory analysis reveal that osmotic stress can shift the functional differentiation of trichoblast. Candidate stress-related gene-linked cis-regulatory elements (gl-cCREs) as well as potential target genes are also identified, and uncovered large cellular heterogeneity under osmotic stress.
