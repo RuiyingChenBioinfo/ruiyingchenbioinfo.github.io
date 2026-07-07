@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Representative projects"
+title: "Representative Projects"
 permalink: /representative-projects/
 author_profile: true
 ---
