@@ -13,10 +13,12 @@ My research focuses on **single-cell/spatial transcriptomics** and **computation
 
 CV and Representative Projects
 ------
+
 You can find my [CV](https://ruiyingchenbioinfo.github.io/cv/) and [Representative Projects](https://ruiyingchenbioinfo.github.io/representative-projects/) here.
 
 My WeChat Official Account
 ------
+
 I share Chinese-language notes and practical tips on single-cell bioinformatics and computational analysis through my WeChat Official Account, **BioinfoWitch 灯灯**.
 <div align="left">
     <img src="/images/WechatAccount.jpg" width="150">
