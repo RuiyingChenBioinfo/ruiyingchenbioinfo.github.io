@@ -38,7 +38,7 @@ Representative Awards
 * **2024.12** · National Scholarship for Doctoral Students in China
 * **2023.07** · Best Poster Presentation at the 18th International Conference on Genomics Youth Symposium
 
-International conference volunteering
+Conference Service
 ------
 
 * **2025.11** · The 2nd International Plant STOC Research Symposium (Beijing, China)
