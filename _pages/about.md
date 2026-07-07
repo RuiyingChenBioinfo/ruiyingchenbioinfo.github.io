@@ -13,7 +13,7 @@ My research focuses on **single-cell/spatial transcriptomics** and **computation
 
 CV and Representative Projects
 ------
-You can find my [CV](https://ruiyingchenbioinfo.github.io/cv/) and [Representative projects](https://ruiyingchenbioinfo.github.io/representative-projects/) here.
+You can find my [CV](https://ruiyingchenbioinfo.github.io/cv/) and [Representative Projects](https://ruiyingchenbioinfo.github.io/representative-projects/) here.
 
 My WeChat Official Account
 ------
