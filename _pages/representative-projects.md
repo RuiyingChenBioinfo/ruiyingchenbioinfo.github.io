@@ -5,8 +5,8 @@ permalink: /representative-projects/
 author_profile: true
 ---
 
-GEI-NJ
-------
+## GEI-NJ
+---
 
 GEI-NJ is a gene-expression-informed neighbor-joining framework for constructing SNV-informed relationship trees from single-cell and spatial transcriptomic sequencing profiles.
 <div align="left">
@@ -15,8 +15,8 @@ GEI-NJ is a gene-expression-informed neighbor-joining framework for constructing
 - **Role:** Developer and first author
 - **Repository:** [GEI-NJ](https://github.com/RuiyingChenBioinfo/GEI-NJ)
 
-LineMut
-------
+## LineMut
+---
 
 LineMut is a computational framework for detecting endogenous somatic SNVs under CellMetaBin resolution from single-cell and spatial transcriptomic sequencing profiles and generating SNV-constrained lineage hypotheses.
 <div align="left">
